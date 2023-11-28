@@ -23,12 +23,34 @@ With YNAP, testing is not an afterthought as is too often the case. Testing is a
 - **Day 5:** Error Handling, Debugging Techniques, and Testing Error Scenarios
 - **Project Addition:** Todo List Feature with Tests
 
-### Blocks 7-8: Introduction to Supabase, Backend Testing
-- **Day 1-2:** Setting up Supabase and Writing Basic Backend Tests
-- **Day 3-4:** Database Operations and Writing Tests for CRUD Operations
-- **Day 5:** Integrating Supabase with JavaScript with Testing
-- **Project Expansion:** User Authentication in Todo List App with Tests
+### Blocks 7-8: Introduction to Backend and Backend Testing
 
+#### **Day 1-2: Setting Up a Local Node Web Server and Basic Backend Testing**
+- **Day 1:** 
+  - **Introduction to Node.js and Express.js:** Learn and use the basics of Node.js and how to set up a simple server using Express.js.
+  - **Building a Basic Web Server:** Create a basic web server that can handle simple HTTP requests.
+  - **Practical Exercise:** Develop a "Hello 'You Need A Project' Community!" API endpoint.
+
+- **Day 2:**
+  - **Introduction to Backend Testing:** Discuss the importance of testing in backend development.
+  - **Writing Basic Backend Tests:** Show how to write tests for the "Hello 'You Need A Project' Community!" API.
+  - **Practical Exercise:** Write and run tests for the server created on Day 1.
+
+#### **Day 3-4: Database Operations and CRUD Testing**
+- **Day 3:**
+  - **Database Integration:** Introduce how to connect a Node.js server to a database (e.g., PostgreSQL).
+  - **Implementing CRUD Operations:** Teach how to create API endpoints for basic CRUD (Create, Read, Update, Delete) operations.
+  - **Practical Exercise:** Develop a simple API for managing data (e.g., a note-taking application).
+
+- **Day 4:**
+  - **Testing CRUD Operations:** Explain how to write tests for CRUD operations.
+  - **Practical Exercise:** Write tests for the CRUD functionality developed on Day 3.
+
+#### **Day 5: Deep Dive into Backend Concepts**
+- **Comprehensive Overview of Backend Development:** 
+  - Explain advanced concepts like middleware, routing, and error handling.
+  - Discuss the role of environment variables and configuration management.
+  - **Practical Exercise:** Enhance the previous project with these advanced features.
 ### Blocks 9-10: Advanced Supabase Features and Testing
 - **Day 1-2:** Advanced Database Operations in Supabase and Testing Them
 - **Day 3-4:** Real-time Data in Supabase and Testing Real-time Features
